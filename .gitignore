@@ -1,0 +1,4 @@
+/.aws-sam
+/.project
+/*.class
+/samconfig.toml
